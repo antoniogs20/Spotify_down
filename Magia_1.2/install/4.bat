@@ -1,0 +1,1 @@
+copy "%path_1%\spotdl" "C:\Users\anton\Anaconda3\Lib\site-packages\spotdl"

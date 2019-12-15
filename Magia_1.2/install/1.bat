@@ -1,0 +1,2 @@
+setx path_1 "%cd%"
+setx path "%path%;C:\Users\%username%\Anaconda3;C:\Users\%username%\Anaconda3\Scripts;C:\Users\%username%\Anaconda3\Library\mingw-w64\bin;C:\Users\%username%\Anaconda3\Library\usr\bin;C:\Users\%username%\Anaconda3\Library\bin"
